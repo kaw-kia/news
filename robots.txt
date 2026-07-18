@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Folder internal Cloudflare
+Disallow: /cdn-cgi/
+
+# Sitemap
+Sitemap: https://news.antangin1001.workers.dev/sitemap.xml
