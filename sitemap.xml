@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-    <url>
-        <loc>https://news.antangin1001.workers.dev/</loc>
-        <lastmod>2026-07-19</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
+<url>
+    <loc>https://news.antangin1001.workers.dev/</loc>
+
+    <news:news>
+        <news:publication>
+            <news:name>Antangin News</news:name>
+            <news:language>id</news:language>
+        </news:publication>
+
+        <news:publication_date>2026-07-19T10:00:00+07:00</news:publication_date>
+
+        <news:title>Portal Berita Paling Update WAHANABET</news:title>
+    </news:news>
+
+</url>
 
 </urlset>
